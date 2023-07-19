@@ -14,5 +14,5 @@ mvn test
 ### run project
 
 ```maven
-mvn exec:java -Dexec.mainClass="fr.demo.test.Application"
+mvn exec:java
 ```
